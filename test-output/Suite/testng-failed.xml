@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.dci.Acumen.E2Escripts.E2E_Acumen">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="E2E_TC0012"/>
+          <include name="E2E_TC0011"/>
+          <include name="E2E_TC0010"/>
+          <include name="E2E_TC0017"/>
+          <include name="E2E_TC0019"/>
+          <include name="E2E_TC0013"/>
+          <include name="E2E_TC0016"/>
+          <include name="E2E_TC0015"/>
+          <include name="E2E_TC0018"/>
+          <include name="E2E_TC0020"/>
+          <include name="E2E_TC0001"/>
+          <include name="E2E_TC0023"/>
+          <include name="E2E_TC0022"/>
+          <include name="E2E_TC0003"/>
+          <include name="E2E_TC0025"/>
+          <include name="E2E_TC0021"/>
+          <include name="E2E_TC0006"/>
+          <include name="E2E_TC0028"/>
+          <include name="E2E_TC0009"/>
+          <include name="E2E_TC0008"/>
+          <include name="E2E_TC0002"/>
+          <include name="E2E_TC0024"/>
+          <include name="E2E_TC0005"/>
+          <include name="E2E_TC0004"/>
+          <include name="E2E_TC0026"/>
+          <include name="E2E_TC0007"/>
+          <include name="E2E_TC0029"/>
+        </methods>
+      </class> <!-- com.dci.Acumen.E2Escripts.E2E_Acumen -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
